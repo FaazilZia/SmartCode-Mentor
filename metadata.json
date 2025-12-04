@@ -1,0 +1,5 @@
+{
+  "name": "SmartCode Mentor",
+  "description": "A minimalist, AI-powered coding assistant for students that finds bugs, explains code, and suggests modern improvements.",
+  "requestFramePermissions": []
+}
